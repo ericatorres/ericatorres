@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erica Gurgel</h1>
 <h3 align="center">A mechanical engineer who is learning programming.</h3>
 
-- 🌱 I’m currently learning **Python, Dart, HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **ASP.NET, C#, HTML, CSS, JavaScript, SQL SERVER**
 
 - 📫 How to reach me **ericavaleska@gmail.com**
 
