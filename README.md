@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **ASP.NET, C#, HTML, CSS, JavaScript, SQL SERVER**
 
+- My personal website: https://ericatorres.github.io/personalPortfolio/
+
 - 📫 How to reach me **ericavaleska@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
